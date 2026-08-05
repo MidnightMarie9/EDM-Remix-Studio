@@ -2,7 +2,7 @@
 
 # 🎛️ EDM Remix Studio - Billboard Grade AI Remixer
 
-![Live Demo](https://img.shields.io/badge/Live%20Demo-AI%20Studio-4285F4?style=for-the-badge)
+![Live Demo](https://ai.studio/apps/7e6621fd-c261-4a28-9ce6-90a3f0a38d06)
 ![React](https://img.shields.io/badge/React-19-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Web Audio API](https://img.shields.io/badge/Web%20Audio%20API-FF3B30?style=flat-square)
@@ -31,10 +31,10 @@ React + TypeScript + Web Audio API + Gemini 3.6 Flash
 ## 💿 Installation & Run
 
 ```bash
-git clone https://github.com/MidnightMarie9/EDM-Remix-Studio-.git
-cd EDM-Remix-Studio-
-npm install
-npm run dev
+git clone https://github.com/MidnightMarie9/EDM-Remix-Studio.git
+cd EDM-Remix-Studio
+bun install
+bun run dev
 ```
 
 Then open `http://localhost:5173`
