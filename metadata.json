@@ -1,0 +1,6 @@
+{
+  "name": "EDM Remix Studio",
+  "description": "An interactive Web Audio & AI powered EDM remix studio with real-time audio processing, genre filters, real-time waveform visualization, and WAV/MP3 export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
